@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing:border-box ;
+   font-family: cursive;
+    
+}
+body{
+    overflow-x: hidden;
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+}
+.carousel-item img{
+    width: 100%;
+    height: 80vh;
+}
+.card-body img{
+    min-width: 50%;
+    max-height: 200px;
+}
+.card-body{
+    background-color: rgb(236, 180, 195);
+}
